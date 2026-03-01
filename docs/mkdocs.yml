@@ -1,0 +1,22 @@
+site_name: Доступ в интернет
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - search.suggest
+    - search.highlight
+
+nav:
+  - статьи:
+    - условия: conditions.md
+    - инструкции: instructions.md
+    - рефералка: referal.md
+  - инструкции по подключению:
+    - wireguard: instructions/wg.md
+    - amneziawg: instructions/amneziawg.md
+    - v2raytun&v2box&happ: instructions/v2.md
+    - amnezia: instructions/amnezia.md
+
+plugins:
+  - search
