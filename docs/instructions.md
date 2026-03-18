@@ -4,12 +4,19 @@
 2. импортировать настройки либо скопировав ключ / ссылку, либо отсканировав куаркод, либо импортом из файла
 3. нажать кнопку подключить
 
+## Актуальные способы подключения
+1. через happ
+2. через amneziawg
+3. через amneziaVPN
+4. через outline
+5. через wireguard
+
 ## Подробные инструкции по подключению
 [Подключение через AmneziaWG](instructions/amneziawg.md)
 
-Подключение через outline / shadowsocks
+[Подключение через outline / shadowsocks](instructions/shadowsocks.md)
 
-Подключение через Hiddify
+[Подключение через Hiddify](instructions/hiddify.md)
 
 Подключение через AmneziaVPN (с раздельным туннелированием)
 

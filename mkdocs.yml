@@ -8,10 +8,11 @@ theme:
     - search.highlight
 
 nav:
-  - статьи:
+  - Условия подключения:
     - условия: conditions.md
     - инструкции: instructions.md
     - рефералка: referal.md
+    - тг-прокси: tgproxy.md
   - инструкции по подключению:
     - wireguard: instructions/wg.md
     - amneziawg: instructions/amneziawg.md
