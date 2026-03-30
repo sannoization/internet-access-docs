@@ -8,8 +8,7 @@ theme:
     - search.highlight
 
 nav:
-- главная: index.md
-  условия:
+  - главная: index.md
   - Условия подключения:
     - условия: conditions.md
     - инструкции: instructions.md
