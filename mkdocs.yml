@@ -18,6 +18,9 @@ nav:
     - amneziawg: instructions/amneziawg.md
     - v2raytun&v2box&happ: instructions/v2.md
     - amnezia: instructions/amnezia.md
+    - hiddify: instructions/hiddify.md
+    - shadowsocks: instructions/shadowsocks.md
+    - tv: instructions/tv.md
 
 plugins:
   - search

@@ -18,11 +18,12 @@
 
 [Подключение через Hiddify](instructions/hiddify.md)
 
-Подключение через AmneziaVPN (с раздельным туннелированием)
+[Подключение через AmneziaVPN (с раздельным туннелированием)](instructions/amnezia.md)
 
-Подключение через v2Box, v2rayng, v2raytun
+[Подключение через v2Box, v2rayng, v2raytun](instructions/v2.md)
 
-Подключение через Wireguard
+[Подключение через Wireguard](instructions/wg.md)
 
-Подключение тв
+[Подключение тв](instructions/tv.md)
+
 (скоро будет) подключение роутера Keenetic
